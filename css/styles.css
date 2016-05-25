@@ -1,13 +1,14 @@
-h2.intro {
-  text-align: center;
+.intro {
   color: blue;
+  text-align: center;
 }
 
-img.intro {
-  margin-left: 30%;
-
-}
-
-p.intro {
+.followup{
   color: orange;
+  text-align: right;
+}
+
+.aboutme {
+  font-family:cursive;
+  color: purple;
 }
